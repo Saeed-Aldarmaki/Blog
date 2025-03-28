@@ -1,0 +1,1 @@
+The file contains HTML,CSS,JAVA files where HTML,CSS is used for the frontend and The java file which consist of jsp and servlet used for the backend.Here in this project we have a login,signup,forgetpassword,mainpage,createBlogpage,Deleteblogpage,modifyBlogpage and also there are features such as commenting and likings blogs as well as adding images
